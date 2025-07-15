@@ -102,3 +102,47 @@ a{
     justify-content: center;*/
     border-radius: 16px;
 }
+
+.quote-section{
+    background-color: #e5e7eb;
+    padding: 80px;
+    font-size: 36px;
+    color:#1f2937;
+    font: light italic;
+
+}
+.author{
+    text-align: right;
+    font-style: normal;
+}
+
+.cta-section{
+    padding: 60px 80px;
+}
+
+.cta-box{
+    display: flex;
+    /*padding: 40px;*/
+    justify-content: space-between;
+    background-color: #3882f6;
+    align-items: center;
+    border-radius: 10px;
+    padding: 40px;
+    color: #ffffff;
+}
+
+.cta-box button{
+    background-color: transparent;
+    color: #ffffff;
+    border: 2px solid #ffffff;
+    border-radius: 8px;
+    padding: 8px 16px;
+    margin-top: 10px;
+}
+
+.footer{
+    background-color: #1f2937;
+    text-align: center;
+    color: #ffffff;
+    padding: 30px;
+}
